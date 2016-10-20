@@ -29,5 +29,5 @@ $ git clone https://github.com/[YOUR-USERNAME]/mip-extensions
 Clone 完成后，你将在本地获得一个 `mip-extensions` 目录，里面包含了所有的 MIP 扩展组件。到此我们就完成了开发前的准备工作。
 
 
-GitHub 的 [Cloning a repositor 文档](https://help.github.com/articles/cloning-a-repository/) 详细描述了在 Mac / Linux / Windows 上如何 clone 一个仓库到本地。不习惯命令行操作的同学可以参考它。
+GitHub 的 [Cloning a repositor 文档](https://help.github.com/articles/cloning-a-repository/) 详细描述了在 Mac / Linux / Windows 上如何 clone 一个仓库到本地，不习惯命令行操作的同学可以参考。
 
